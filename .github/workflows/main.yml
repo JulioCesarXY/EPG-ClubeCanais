@@ -1,0 +1,40 @@
+name: Atualizar Lista M3U com Playwright
+
+on:
+  schedule:
+    - cron: '0 3 * * *' # Todo dia às 00:00 Horário de Brasília
+  workflow_dispatch: # Botão para rodar manualmente
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Baixar código do repositório
+      uses: actions/checkout@v4
+
+    - name: Configurar o Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Instalar Dependências do Python
+      run: |
+        python -m pip install --upgrade pip
+        pip install playwright beautifulsoup4
+
+    - name: Instalar Navegadores do Playwright
+      run: |
+        python -m playwright install chromium --with-deps
+
+    - name: Executar o Scraper com Playwright
+      run: python captura_playwright.py
+
+    - name: Salvar e Enviar alterações para o GitHub
+      run: |
+        git config --local user.email "104462712+JulioCesarXY@users.noreply.github.com"
+        git config --local user.name "JulioCesarXY"
+        git add clube_canais_playwright.m3u
+        git diff-index --quiet HEAD || git commit -m "Lista M3U atualizada via Playwright"
+        git push
+        
