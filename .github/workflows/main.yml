@@ -1,4 +1,4 @@
-name: Atualizar Lista M3U com Playwright
+name: Atualizar Lista M3U
 
 on:
   schedule:
