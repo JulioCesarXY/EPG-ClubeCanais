@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="498" tvg-name="NBX TV PIPOCA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_1_1783402438.png" group-title="POSIÇÃO PREMIUM",NBX TV PIPOCA
-https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8?hls_ctx=t5w7558n
+https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8?hls_ctx=22qm54n5
 #EXTINF:-1 tvg-id="497" tvg-name="BS TV Online" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_1_1783402358.png" group-title="POSIÇÃO PREMIUM",BS TV Online
 https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w840059412.m3u8
 #EXTINF:-1 tvg-id="496" tvg-name="Rede Novelas" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_1_1783402254.png" group-title="POSIÇÃO PREMIUM",Rede Novelas
@@ -14,27 +14,27 @@ https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8
 #EXTINF:-1 tvg-id="463" tvg-name="tv conquista - RECORD TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_463_1783401805.png" group-title="POSIÇÃO PREMIUM",tv conquista - RECORD TV
 https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
 #EXTINF:-1 tvg-id="391" tvg-name="TV A Crítica" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_391_1783401790.png" group-title="POSIÇÃO PREMIUM",TV A Crítica
-https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/media-uo9vlksdh_243369.ts
+https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/chunklist.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="TV IMJC" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_5_1783401761.png" group-title="POSIÇÃO PREMIUM",TV IMJC
-https://stmv7.voxtvhd.com.br/tvimjc/tvimjc/playlist.m3u8?hls_ctx=88oq3n58
+https://stmv7.voxtvhd.com.br/tvimjc/tvimjc/playlist.m3u8?hls_ctx=12692o12
 #EXTINF:-1 tvg-id="4" tvg-name="MEGA ONE TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_4_1783401748.png" group-title="POSIÇÃO PREMIUM",MEGA ONE TV
-https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8?hls_ctx=o59md049
+https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8?hls_ctx=hf66cd42
 #EXTINF:-1 tvg-id="361" tvg-name="NBX TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_361_1775533382.png" group-title="REDE NBX TV",NBX TV
-https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8?hls_ctx=n5b85w55
+https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8?hls_ctx=7685756e
 #EXTINF:-1 tvg-id="360" tvg-name="NBX TV PIPOCA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_1_1772947880.png" group-title="REDE NBX TV",NBX TV PIPOCA
-https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8?hls_ctx=7jol8822
+https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8?hls_ctx=90xo7krl
 #EXTINF:-1 tvg-id="357" tvg-name="NBX TV KIDS" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_357_1775532518.png" group-title="REDE NBX TV",NBX TV KIDS
-https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8?hls_ctx=h482732m
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8?hls_ctx=022t857l
 #EXTINF:-1 tvg-id="505" tvg-name="TV NOVA NORDESTE" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_505_1784314134.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV NOVA NORDESTE
-https://stream.ecast.com.br/nova-tv/tracks-v1a1/2026/08/19/03/55/05-06840.ts
+https://stream.ecast.com.br/nova-tv/tracks-v1a1/2026/08/20/03/50/19-06139.ts
 #EXTINF:-1 tvg-id="500" tvg-name="Somos TV HD" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_475_1783620014.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",Somos TV HD
 https://srv3.zcast.com.br/somostv/somostv/playlist.m3u8
 #EXTINF:-1 tvg-id="399" tvg-name="TV Ponto de encontro" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_399_1780974214.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV Ponto de encontro
-https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8?hls_ctx=2eu4fs77
+https://stmv4.voxtvhd.com.br/tvpontodeencontro/tvpontodeencontro/playlist.m3u8?hls_ctx=1i391977
 #EXTINF:-1 tvg-id="383" tvg-name="cidade tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_1_1775104609.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",cidade tv
-https://stmv7.voxtvhd.com.br/cidadetv/cidadetv/playlist.m3u8?hls_ctx=ytk213k1
+https://stmv7.voxtvhd.com.br/cidadetv/cidadetv/playlist.m3u8?hls_ctx=1h283r65
 #EXTINF:-1 tvg-id="378" tvg-name="TV LatinaSat" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_378_1774840459.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV LatinaSat
-https://www.latinasat.com.br/hls/live/stream/index5093270.ts
+https://www.latinasat.com.br/hls/live/stream/index5136296.ts
 #EXTINF:-1 tvg-id="368" tvg-name="TV Futuro" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_368_1780973799.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV Futuro
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/chunklist_w1769346441.m3u8
 #EXTINF:-1 tvg-id="367" tvg-name="Tv Singular" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_266_1783646331.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",Tv Singular
@@ -44,19 +44,19 @@ https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/c
 #EXTINF:-1 tvg-id="322" tvg-name="Rede Ortega" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_322_1771602553.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",Rede Ortega
 https://stmv8.samcast.com.br/guilhermehenrique2856/guilhermehenrique2856/playlist.m3u8
 #EXTINF:-1 tvg-id="303" tvg-name="TV Brasil Hits" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_115_1770399934.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV Brasil Hits
-https://video04.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
+https://video04.logicahost.com.br/brasilhits/brasilhits/chunklist_w44655783.m3u8
 #EXTINF:-1 tvg-id="282" tvg-name="TV Lithoral News" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_282_1771108200.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV Lithoral News
-https://video01.logicahost.com.br/lithoralnews/lithoralnews/chunklist_w1700527699.m3u8
+https://video01.logicahost.com.br/lithoralnews/lithoralnews/chunklist_w1325065970.m3u8
 #EXTINF:-1 tvg-id="273" tvg-name="REDE SPTV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_273_1771108461.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",REDE SPTV
-https://video01.logicahost.com.br/websptv/websptv/chunklist_w1936830669.m3u8
+https://video01.logicahost.com.br/websptv/websptv/chunklist_w1227051283.m3u8
 #EXTINF:-1 tvg-id="247" tvg-name="TV TVR" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_138_1768687265.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV TVR
-https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8?hls_ctx=26ae763f
+https://stmv1.voxtvhd.com.br/4430/4430/playlist.m3u8?hls_ctx=0371oa87
 #EXTINF:-1 tvg-id="216" tvg-name="REDE UTV BRASIL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_216_1768389354.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",REDE UTV BRASIL
-https://utvsite.acessaradios.com.br/utvsite/_definst_/utvsite.stream/media_w644838723_180504.ts
+https://utvsite.acessaradios.com.br/utvsite/_definst_/utvsite.stream/media_w1262581063_194857.ts
 #EXTINF:-1 tvg-id="206" tvg-name="TV GOITACÁ" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_206_1768331054.jpeg" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV GOITACÁ
-https://video01.brascast.com/david7639/david7639/playlist.m3u8?hls_ctx=826h4c84
+https://video01.brascast.com/david7639/david7639/playlist.m3u8?hls_ctx=62st3411
 #EXTINF:-1 tvg-id="205" tvg-name="TV INFORBAHIA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_205_1777481822.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV INFORBAHIA
-https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8?hls_ctx=7u2f11o5
+https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8?hls_ctx=r0vb97p5
 #EXTINF:-1 tvg-id="191" tvg-name="BR GLOBAL STATION" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_191_1768389927.jpg" group-title="ALTA DEFINIÇÃO ( HD,FHD )",BR GLOBAL STATION
 https://brglobalstation.duckdns.org:3334/hls/brglobalstation.m3u8
 #EXTINF:-1 tvg-id="190" tvg-name="TV CONQUISTA (Record)" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_190_1771110834.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV CONQUISTA (Record)
@@ -66,89 +66,89 @@ https://isaocorp.cloudecast.com/metropole/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="113" tvg-name="TV Clube" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_113_1767830588.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV Clube
 https://isaocorp.cloudecast.com/recon/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="Clouding TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_96_1775532608.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",Clouding TV
-https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1885583460.m3u8
 #EXTINF:-1 tvg-id="95" tvg-name="BS TV Online" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_95_1781012325.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",BS TV Online
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w376370679.m3u8
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/chunklist_w1708961258.m3u8
 #EXTINF:-1 tvg-id="89" tvg-name="TV GRANDE NATAL HDTV BRASIL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_34_1784694327.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",TV GRANDE NATAL HDTV BRASIL
 https://tvgrandenatalhdtv.duckdns.org:3334/hls/live.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="SBC" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_85_1781319313.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",SBC
-https://video01.brascast.com/rede1250/rede1250/playlist.m3u8?hls_ctx=4n44s034
+https://video01.brascast.com/rede1250/rede1250/playlist.m3u8?hls_ctx=9s18l735
 #EXTINF:-1 tvg-id="83" tvg-name="Wording de Televisao" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_83_1776876178.png" group-title="ALTA DEFINIÇÃO ( HD,FHD )",Wording de Televisao
-https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w2063054336.m3u8
+https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist_w1033920145.m3u8
 #EXTINF:-1 tvg-id="543" tvg-name="L&A Tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_80_1786795148.png" group-title="SERIADOS",L&A Tv
 https://stmv.webtvninjas.com.br/lucas6505/lucas6505/playlist.m3u8
 #EXTINF:-1 tvg-id="125" tvg-name="Reviva TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_125_1767830469.png" group-title="SERIADOS",Reviva TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 #EXTINF:-1 tvg-id="121" tvg-name="TV Channel Network" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_121_1767830546.jpg" group-title="SERIADOS",TV Channel Network
-https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w1492617142.m3u8
+https://tvchannel.tvr.ovh/video28392/video28392/chunklist_w2045831705.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="AWTV STREAMING AO VIVO" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_59_1781318709.png" group-title="SERIADOS",AWTV STREAMING AO VIVO
-https://awtv.nuvemplay.live/hls/stream-11571.ts
+https://awtv.nuvemplay.live/hls/stream-25958.ts
 #EXTINF:-1 tvg-id="487" tvg-name="Novelas Prime" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_80_1783599333.png" group-title="NOVELA",Novelas Prime
 https://srv3.zcast.com.br/lucas9425/lucas9425/playlist.m3u8
 #EXTINF:-1 tvg-id="429" tvg-name="Rede Novelas" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_429_1781316222.png" group-title="NOVELA",Rede Novelas
 https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
 #EXTINF:-1 tvg-id="540" tvg-name="Ministério Infantil TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_540_1786662357.png" group-title="DESENHOS",Ministério Infantil TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8?hls_ctx=v39l387v
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8?hls_ctx=it6707l4
 #EXTINF:-1 tvg-id="536" tvg-name="REDE LUDOVICENSE TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_536_1786072613.jpeg" group-title="DESENHOS",REDE LUDOVICENSE TV
 https://stmv1.paineldevideo.com.br/parceriawebtv1/parceriawebtv1/playlist.m3u8
 #EXTINF:-1 tvg-id="210" tvg-name="TV Kidmais" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_210_1768389017.png" group-title="DESENHOS",TV Kidmais
-https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=n257111z
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8?hls_ctx=0q74316l
 #EXTINF:-1 tvg-id="150" tvg-name="Tv Nilcera" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_150_1767831331.jpg" group-title="DESENHOS",Tv Nilcera
-https://lbgo.bozztv.com/ssh101/ssh101/tvnilcera/chunks.m3u8?lb_backend_hint=7
+https://lbgo.bozztv.com/ssh101/ssh101/tvnilcera/playlist.m3u8
 #EXTINF:-1 tvg-id="116" tvg-name="Otaku Sign Tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_116_1767831476.png" group-title="DESENHOS",Otaku Sign Tv
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 #EXTINF:-1 tvg-id="182" tvg-name="RS SPORTS 5" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_87_1767986073.png" group-title="ESPORTES",RS SPORTS 5
-https://video07.logicahost.com.br/rssports05/rssports05/chunklist_w277588493.m3u8
+https://video07.logicahost.com.br/rssports05/rssports05/chunklist_w1651848455.m3u8
 #EXTINF:-1 tvg-id="181" tvg-name="RS SPORTS 4" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_87_1767985985.png" group-title="ESPORTES",RS SPORTS 4
-https://video07.logicahost.com.br/rssports04/rssports04/chunklist_w920093306.m3u8
+https://video07.logicahost.com.br/rssports04/rssports04/chunklist_w574304339.m3u8
 #EXTINF:-1 tvg-id="180" tvg-name="RS SPORTS 3" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_87_1767985851.png" group-title="ESPORTES",RS SPORTS 3
-https://video07.logicahost.com.br/rssports03/rssports03/chunklist_w689199348.m3u8
+https://video07.logicahost.com.br/rssports03/rssports03/chunklist_w840508904.m3u8
 #EXTINF:-1 tvg-id="179" tvg-name="RS SPORTS 2" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_87_1767985749.png" group-title="ESPORTES",RS SPORTS 2
-https://video07.logicahost.com.br/rssports02/rssports02/chunklist_w597528273.m3u8
+https://video07.logicahost.com.br/rssports02/rssports02/chunklist_w138291118.m3u8
 #EXTINF:-1 tvg-id="178" tvg-name="RS SPORTS" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_87_1767985592.png" group-title="ESPORTES",RS SPORTS
-https://video07.logicahost.com.br/rssports01/rssports01/chunklist_w2017738084.m3u8
+https://video07.logicahost.com.br/rssports01/rssports01/chunklist_w1983241331.m3u8
 #EXTINF:-1 tvg-id="541" tvg-name="TV Itapetinga rio" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_96_1786677615.png" group-title="EVANGÉLICA",TV Itapetinga rio
-https://stmv4.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8?hls_ctx=l5vge7r2
+https://stmv4.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8?hls_ctx=e2cip8oy
 #EXTINF:-1 tvg-id="514" tvg-name="TV SONORA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_509_1785333619.jpeg" group-title="EVANGÉLICA",TV SONORA
-https://video01.brascast.com/xavier4499/xavier4499/playlist.m3u8?hls_ctx=9dr52bpn
+https://video01.brascast.com/xavier4499/xavier4499/playlist.m3u8?hls_ctx=w5g80889
 #EXTINF:-1 tvg-id="513" tvg-name="TV AVIVANDO NAÇÕES" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_509_1785186975.png" group-title="EVANGÉLICA",TV AVIVANDO NAÇÕES
-https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/playlist.m3u8
+https://video04.logicahost.com.br/tvavivandonacoes/tvavivandonacoes/chunklist_w1812979465.m3u8
 #EXTINF:-1 tvg-id="503" tvg-name="VITÓRIA PLENA TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_486_1784137829.png" group-title="EVANGÉLICA",VITÓRIA PLENA TV
-https://stmv7.voxtvhd.com.br/vitoriaplenatv/vitoriaplenatv/playlist.m3u8?hls_ctx=sr2m5367
+https://stmv7.voxtvhd.com.br/vitoriaplenatv/vitoriaplenatv/playlist.m3u8?hls_ctx=gv8o2h24
 #EXTINF:-1 tvg-id="479" tvg-name="Radio Super Gospel Irati" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_444_1782346579.png" group-title="EVANGÉLICA",Radio Super Gospel Irati
 https://stmv8.samcast.com.br/radiomelodiawebtv/radiomelodiawebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="469" tvg-name="TV VR GOSPEL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_406_1781444487.jpg" group-title="EVANGÉLICA",TV VR GOSPEL
 https://srv1.zcast.com.br/oseas3701/oseas3701/playlist.m3u8
 #EXTINF:-1 tvg-id="450" tvg-name="TV DIÁRIO DO AGRESTE" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_450_1781315454.png" group-title="EVANGÉLICA",TV DIÁRIO DO AGRESTE
-https://stmv2.voxtvhd.com.br/tvdiariodoagreste/tvdiariodoagreste/playlist.m3u8?hls_ctx=lit1n91a
+https://stmv2.voxtvhd.com.br/tvdiariodoagreste/tvdiariodoagreste/playlist.m3u8?hls_ctx=03g35wqo
 #EXTINF:-1 tvg-id="444" tvg-name="TV MIL ALELUIA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_444_1781315850.png" group-title="EVANGÉLICA",TV MIL ALELUIA
 https://srv2.zcast.com.br/tvmilaleluia/tvmilaleluia/playlist.m3u8
 #EXTINF:-1 tvg-id="440" tvg-name="TV APOCALIPSE" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_371_1780147869.jpeg" group-title="EVANGÉLICA",TV APOCALIPSE
 https://stmv7.voxtvhd.com.br/tvapocalipse/tvapocalipse/playlist.m3u8
 #EXTINF:-1 tvg-id="435" tvg-name="REDE ALFA TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_386_1780087174.jpg" group-title="EVANGÉLICA",REDE ALFA TV
-https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8?hls_ctx=530j4vx8
+https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8?hls_ctx=mp255h60
 #EXTINF:-1 tvg-id="428" tvg-name="TV super gospel" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_428_1781316286.png" group-title="EVANGÉLICA",TV super gospel
-https://stmv1.voxtvhd.com.br/9010/9010/playlist.m3u8?hls_ctx=2cf19368
+https://stmv1.voxtvhd.com.br/9010/9010/playlist.m3u8?hls_ctx=j25m2219
 #EXTINF:-1 tvg-id="427" tvg-name="TV APOCALIPSE" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_427_1779830356.png" group-title="EVANGÉLICA",TV APOCALIPSE
 https://stmv7.voxtvhd.com.br/tvapocalipse/tvapocalipse/playlist.m3u8
 #EXTINF:-1 tvg-id="425" tvg-name="RÁDIO PENIEL WEB E TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_369_1779819439.jpg" group-title="EVANGÉLICA",RÁDIO PENIEL WEB E TV
-https://stmv4.voxtvhd.com.br/radioetvpenielweb/radioetvpenielweb/playlist.m3u8?hls_ctx=n2581q8o
+https://stmv4.voxtvhd.com.br/radioetvpenielweb/radioetvpenielweb/playlist.m3u8
 #EXTINF:-1 tvg-id="400" tvg-name="TV Casa Do Pai" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_400_1781316386.png" group-title="EVANGÉLICA",TV Casa Do Pai
-https://stmv6.voxtvhd.com.br/j1casa/j1casa/playlist.m3u8?hls_ctx=13u9t2e8
+https://stmv6.voxtvhd.com.br/j1casa/j1casa/playlist.m3u8?hls_ctx=2wd8t156
 #EXTINF:-1 tvg-id="317" tvg-name="Top Gospel FM" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_317_1775488249.jpg" group-title="EVANGÉLICA",Top Gospel FM
-https://a.cdni.live/topgospelfm/topgospelfm/playlist.m3u8
+https://a.cdni.live/topgospelfm/topgospelfm/chunklist_w1014701084.m3u8
 #EXTINF:-1 tvg-id="267" tvg-name="+Gospel" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_267_1781317035.png" group-title="EVANGÉLICA",+Gospel
 https://s1.tvr.ovh/acessogospel/acessogospel/playlist.m3u8
 #EXTINF:-1 tvg-id="244" tvg-name="TV ADORADOR GOSPEL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_114_1768594993.png" group-title="EVANGÉLICA",TV ADORADOR GOSPEL
-https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8?hls_ctx=67z70317
+https://stmv1.voxtvhd.com.br/tvadoradorgospel/tvadoradorgospel/playlist.m3u8?hls_ctx=com72ml5
 #EXTINF:-1 tvg-id="199" tvg-name="TV Itapetinga" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_199_1768315978.png" group-title="EVANGÉLICA",TV Itapetinga
 https://stmv1.samcast.com.br/eroaldo15634/eroaldo15634/playlist.m3u8
 #EXTINF:-1 tvg-id="198" tvg-name="TV Estação Paulista" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_17_1768269112.png" group-title="EVANGÉLICA",TV Estação Paulista
-https://stmv1.voxtvhd.com.br/tvestacaopaulista/tvestacaopaulista/playlist.m3u8?hls_ctx=j086mt56
+https://stmv1.voxtvhd.com.br/tvestacaopaulista/tvestacaopaulista/playlist.m3u8?hls_ctx=201zi37k
 #EXTINF:-1 tvg-id="195" tvg-name="TOP MIX TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_24_1768263127.png" group-title="EVANGÉLICA",TOP MIX TV
-https://video01.logicahost.com.br/topmixtvgospelcanal03/topmixtvgospelcanal03/chunklist_w2092163670.m3u8
+https://video01.logicahost.com.br/topmixtvgospelcanal03/topmixtvgospelcanal03/chunklist_w77857078.m3u8
 #EXTINF:-1 tvg-id="194" tvg-name="TOP MIX TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_24_1768262963.png" group-title="EVANGÉLICA",TOP MIX TV
-https://video01.logicahost.com.br/topmixtvgospel01/topmixtvgospel01/chunklist_w992620950.m3u8
+https://video01.logicahost.com.br/topmixtvgospel01/topmixtvgospel01/chunklist_w1022847882.m3u8
 #EXTINF:-1 tvg-id="115" tvg-name="Viva Vida TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_115_1767831517.png" group-title="EVANGÉLICA",Viva Vida TV
 https://stmv1.srvif.com/vivavida/vivavida/playlist.m3u8
 #EXTINF:-1 tvg-id="112" tvg-name="Tv Adorando Jesus" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_58_1767563669.jpg" group-title="EVANGÉLICA",Tv Adorando Jesus
@@ -156,23 +156,23 @@ https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="TV Manancial" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_47_1767413706.png" group-title="EVANGÉLICA",TV Manancial
 https://srv4.zcast.com.br/flavio8792/flavio8792/playlist.m3u8
 #EXTINF:-1 tvg-id="91" tvg-name="Tv Luz Do Mundo" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_91_1767829092.jpg" group-title="EVANGÉLICA",Tv Luz Do Mundo
-https://stmv7.voxtvhd.com.br/tvluzdomundo/tvluzdomundo/playlist.m3u8?hls_ctx=f318evx0
+https://stmv7.voxtvhd.com.br/tvluzdomundo/tvluzdomundo/playlist.m3u8?hls_ctx=45w6k3js
 #EXTINF:-1 tvg-id="79" tvg-name="TV CONEXÃO CELESTIAL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_79_1781317715.png" group-title="EVANGÉLICA",TV CONEXÃO CELESTIAL
-https://stmv7.voxtvhd.com.br/tvconexaocelestial/tvconexaocelestial/playlist.m3u8?hls_ctx=g40n4s81
+https://stmv7.voxtvhd.com.br/tvconexaocelestial/tvconexaocelestial/playlist.m3u8?hls_ctx=598v0906
 #EXTINF:-1 tvg-id="70" tvg-name="TV CESP" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_70_1781318189.png" group-title="EVANGÉLICA",TV CESP
-https://stmv7.voxtvhd.com.br/pralan/pralan/playlist.m3u8?hls_ctx=9f2195i1
+https://stmv7.voxtvhd.com.br/pralan/pralan/playlist.m3u8?hls_ctx=7447ygs5
 #EXTINF:-1 tvg-id="66" tvg-name="IGREJA MUNDIAL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_66_1767831114.jpg" group-title="EVANGÉLICA",IGREJA MUNDIAL
-https://igrejamundial.nuvemplay.live/hls/stream-18024.ts
+https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="REDE GOSPEL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_65_1781318405.png" group-title="EVANGÉLICA",REDE GOSPEL
-https://redegospel-aovivo.nuvemplay.live/hls/stream-8293.ts
+https://redegospel-aovivo.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="64" tvg-name="ALMA GOSPEL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_64_1781318505.png" group-title="EVANGÉLICA",ALMA GOSPEL
 https://almagospel.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="TV SEPIOL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_48_1767829430.png" group-title="EVANGÉLICA",TV SEPIOL
-https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/media_w1455502429_609749.ts
+https://5a57bda70564a.streamlock.net/tvsepiol/tvsepiol.sdp/media_w956348293_618647.ts
 #EXTINF:-1 tvg-id="33" tvg-name="TV Brasil Angola" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1774527743.png" group-title="EVANGÉLICA",TV Brasil Angola
-https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w1939754871.m3u8
+https://video10.logicahost.com.br/tvbrasilangola/tvbrasilangola/chunklist_w1210197258.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="TV LIBERDADE BETEL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_3_1767828979.png" group-title="EVANGÉLICA",TV LIBERDADE BETEL
-https://stmv7.voxtvhd.com.br/liberdadebetel/liberdadebetel/playlist.m3u8?hls_ctx=1900830n
+https://stmv7.voxtvhd.com.br/liberdadebetel/liberdadebetel/playlist.m3u8?hls_ctx=16w44qu3
 #EXTINF:-1 tvg-id="511" tvg-name="Rede Mariana" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9W2jxec54RJcDkKb5lLYfn_UxIXn9jTqoeUWyBVBWlf2Zps53HFarf9B_&s=10" group-title="CATOLICA",Rede Mariana
 https://stmv2.srvif.com/redemariana/redemariana/playlist.m3u8
 #EXTINF:-1 tvg-id="499" tvg-name="TV Rabelo 2" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_499_1784841631.png" group-title="CATOLICA",TV Rabelo 2
@@ -180,53 +180,53 @@ https://stmv2.srvsh.com.br/andreroneymartins6647/andreroneymartins6647/chunklist
 #EXTINF:-1 tvg-id="259" tvg-name="TV Rabelo" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_147_1776365876.png" group-title="CATOLICA",TV Rabelo
 https://stv1.ipstm.net:3080/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="243" tvg-name="Rádio Olinda FM 105.3" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_130_1768592546.png" group-title="CATOLICA",Rádio Olinda FM 105.3
-https://video09.logicahost.com.br/radioolinda/radioolinda/playlist.m3u8
+https://video09.logicahost.com.br/radioolinda/radioolinda/chunklist_w1151401223.m3u8
 #EXTINF:-1 tvg-id="204" tvg-name="WEB TV CATOLICA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_204_1768388595.png" group-title="CATOLICA",WEB TV CATOLICA
 https://stmv1.paineldevideo.com.br/webcatolica/webcatolica/playlist.m3u8
 #EXTINF:-1 tvg-id="23" tvg-name="TV PAI ETERNO" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822713.png" group-title="CATOLICA",TV PAI ETERNO
 https://video09.logicahost.com.br/paieterno/paieterno/chunklist_w1170674421.m3u8
 #EXTINF:-1 tvg-id="268" tvg-name="REDEHTV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_268_1769310330.png" group-title="EDUCATIVOS",REDEHTV
-https://s1.tvr.ovh/video83070/video83070/chunklist_w667754627.m3u8
+https://s1.tvr.ovh/video83070/video83070/chunklist_w2138216916.m3u8
 #EXTINF:-1 tvg-id="265" tvg-name="TV Profissão" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_151_1769103818.png" group-title="EDUCATIVOS",TV Profissão
 https://tv03.zas.media:1936/tvprofissao/tvprofissao/playlist.m3u8
 #EXTINF:-1 tvg-id="477" tvg-name="TV Planalto" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_47_1782139979.png" group-title="MUSICA",TV Planalto
 https://srv3.zcast.com.br/amilton8548/amilton8548/playlist.m3u8
 #EXTINF:-1 tvg-id="476" tvg-name="Rádio Tv Fragata" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_436_1782079820.png" group-title="MUSICA",Rádio Tv Fragata
-https://stmv7.voxtvhd.com.br/joao8063/joao8063/playlist.m3u8?hls_ctx=8tflk10d&1782067891
+https://stmv7.voxtvhd.com.br/joao8063/joao8063/playlist.m3u8?hls_ctx=3pv0jwui&1782067891
 #EXTINF:-1 tvg-id="365" tvg-name="Radio Liberal" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_262_1773494970.jpg" group-title="MUSICA",Radio Liberal
 https://stmv1.srvif.com/tvliberal/tvliberal/playlist.m3u8
 #EXTINF:-1 tvg-id="197" tvg-name="TOP MIX TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_24_1768263552.png" group-title="MUSICA",TOP MIX TV
-https://video01.logicahost.com.br/topmixtvpopantigo5/topmixtvpopantigo5/chunklist_w1482495803.m3u8
+https://video01.logicahost.com.br/topmixtvpopantigo5/topmixtvpopantigo5/chunklist_w58688793.m3u8
 #EXTINF:-1 tvg-id="193" tvg-name="TOP MIX TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_24_1768262405.png" group-title="MUSICA",TOP MIX TV
-https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w214615990.m3u8
+https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/chunklist_w1459678794.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="Lamore Rock Show WebTV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_84_1781317642.png" group-title="MUSICA",Lamore Rock Show WebTV
-https://a.cdni.live/rodrigo2364/rodrigo2364/chunklist_w158654992.m3u8
+https://a.cdni.live/rodrigo2364/rodrigo2364/chunklist_w474534052.m3u8
 #EXTINF:-1 tvg-id="77" tvg-name="TV LITORAL LESTE" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_77_1781317873.png" group-title="MUSICA",TV LITORAL LESTE
-https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8?hls_ctx=04c944wa
+https://stmv1.voxtvhd.com.br/tvaracati/tvaracati/playlist.m3u8?hls_ctx=7636q8c4
 #EXTINF:-1 tvg-id="63" tvg-name="TOCA TUDO TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_63_1781318445.png" group-title="MUSICA",TOCA TUDO TV
-https://tocatudotv.nuvemplay.live/hls/stream.m3u8
+https://tocatudotv.nuvemplay.live/hls/stream-10007.ts
 #EXTINF:-1 tvg-id="24" tvg-name="TV 100% CAIPIRA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822730.png" group-title="MUSICA",TV 100% CAIPIRA
-https://video10.logicahost.com.br/caipira/caipira/chunklist_w1193096186.m3u8
+https://video10.logicahost.com.br/caipira/caipira/chunklist_w1785676269.m3u8
 #EXTINF:-1 tvg-id="403" tvg-name="TV CAR" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1777035478.png" group-title="CARRO",TV CAR
-https://video11.logicahost.com.br/tvcar/tvcar/chunklist_w1420639855.m3u8
+https://video11.logicahost.com.br/tvcar/tvcar/chunklist_w343076518.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="TV DO CARRO" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767791648.png" group-title="CARRO",TV DO CARRO
-https://tv03.zas.media:1936/tvdocarro/tvdocarro/chunklist_w1237202754.m3u8
+https://tv03.zas.media:1936/tvdocarro/tvdocarro/chunklist_w323395055.m3u8
 #EXTINF:-1 tvg-id="343" tvg-name="Canal Bem Melhor" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_343_1773028345.png" group-title="CULINÁRIA",Canal Bem Melhor
-https://video01.logicahost.com.br/bemmelhor/bemmelhor/chunklist_w442303467.m3u8
+https://video01.logicahost.com.br/bemmelhor/bemmelhor/chunklist_w1165506083.m3u8
 #EXTINF:-1 tvg-id="393" tvg-name="Iblizz" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_47_1776134230.png" group-title="DOCUMENTÁRIOS",Iblizz
 https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
 #EXTINF:-1 tvg-id="221" tvg-name="NZTV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_221_1768395080.png" group-title="DOCUMENTÁRIOS",NZTV
-https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8?hls_ctx=5194558h
+https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8?hls_ctx=35nu1005
 #EXTINF:-1 tvg-id="202" tvg-name="QTAL Channel" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_202_1771110471.png" group-title="DOCUMENTÁRIOS",QTAL Channel
-https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8?hls_ctx=x5f82137
+https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8?hls_ctx=2c9gu054
 #EXTINF:-1 tvg-id="183" tvg-name="RS TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_87_1767986184.png" group-title="DOCUMENTÁRIOS",RS TV
-https://video07.logicahost.com.br/rstv1/rstv1/chunklist_w350259562.m3u8
+https://video07.logicahost.com.br/rstv1/rstv1/chunklist_w1412848923.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="TV NND" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_76_1781317933.png" group-title="DOCUMENTÁRIOS",TV NND
-https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8?hls_ctx=9344g5nc
+https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8?hls_ctx=27xp98g2
 #EXTINF:-1 tvg-id="213" tvg-name="TV Folha do Campo" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_213_1771110039.png" group-title="AGRONEGÓCIO",TV Folha do Campo
-https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8?hls_ctx=4z97p900
+https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8?hls_ctx=67k1nnz9
 #EXTINF:-1 tvg-id="480" tvg-name="Hip-hop vai alem  tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_447_1782492409.png" group-title="CULTURA",Hip-hop vai alem  tv
-https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8?hls_ctx=j2c8n13g
+https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8?hls_ctx=3385hg6x
 #EXTINF:-1 tvg-id="472" tvg-name="TVBE Itajaí" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_426_1781728191.png" group-title="CULTURA",TVBE Itajaí
 https://stmv1.samcast.com.br/junior5083/junior5083/playlist.m3u8
 #EXTINF:-1 tvg-id="471" tvg-name="TVBE Joinville" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_471_1781798711.png" group-title="CULTURA",TVBE Joinville
@@ -234,69 +234,69 @@ https://stmv1.samcast.com.br/stefany3846/stefany3846/playlist.m3u8
 #EXTINF:-1 tvg-id="233" tvg-name="TNJ TV NOVA JUAREZ" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_233_1768705078.jpg" group-title="CULTURA",TNJ TV NOVA JUAREZ
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="IJUÍ PLAY" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767823243.png" group-title="CULTURA",IJUÍ PLAY
-https://video04.logicahost.com.br/schamlztv/schamlztv/playlist.m3u8
+https://video04.logicahost.com.br/schamlztv/schamlztv/chunklist_w302347535.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="TV CNU" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767823224.png" group-title="CULTURA",TV CNU
-https://br5093.streamingdevideo.com.br/wbgpymgwys/wbgpymgwys/media_w973966520_69978.ts
+https://br5093.streamingdevideo.com.br/wbgpymgwys/wbgpymgwys/media_w161221566_78590.ts
 #EXTINF:-1 tvg-id="401" tvg-name="TV METROPOLE CARIRI" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_102_1776977262.png" group-title="PUBLICOS",TV METROPOLE CARIRI
-https://stmv.jnbhost.com.br/tvmetropolecariri/tvmetropolecariri/chunklist_w1701288637.m3u8
+https://stmv.jnbhost.com.br/tvmetropolecariri/tvmetropolecariri/chunklist_w949866777.m3u8
 #EXTINF:-1 tvg-id="387" tvg-name="TV PAPAGAIO" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_387_1775788960.png" group-title="PUBLICOS",TV PAPAGAIO
-https://stmv.jnbhost.com.br/tvpapagaio/tvpapagaio/chunklist_w1663553728.m3u8
+https://stmv.jnbhost.com.br/tvpapagaio/tvpapagaio/chunklist_w380092223.m3u8
 #EXTINF:-1 tvg-id="289" tvg-name="TV PRINCESA DO VALE" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_289_1771107999.jpg" group-title="PUBLICOS",TV PRINCESA DO VALE
 https://stmv.jnbhost.com.br/tvprincesadovale/tvprincesadovale/playlist.m3u8
 #EXTINF:-1 tvg-id="274" tvg-name="TV BRASIL NEWS" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_274_1771108373.png" group-title="PUBLICOS",TV BRASIL NEWS
-https://stmv.jnbhost.com.br/tvbrasilnews/tvbrasilnews/chunklist_w1942242700.m3u8
+https://stmv.jnbhost.com.br/tvbrasilnews/tvbrasilnews/chunklist_w1837863618.m3u8
 #EXTINF:-1 tvg-id="208" tvg-name="TV ALAGOINHA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_208_1771110210.png" group-title="PUBLICOS",TV ALAGOINHA
-https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/chunklist_w319095751.m3u8
+https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/chunklist_w458232245.m3u8
 #EXTINF:-1 tvg-id="151" tvg-name="Tv dunas" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_151_1767812662.png" group-title="PUBLICOS",Tv dunas
 https://stmv2.samcast.com.br/wallace4828/wallace4828/playlist.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="BS TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767823090.png" group-title="PUBLICOS",BS TV
 https://br5093.streamingdevideo.com.br:8081/bstv/bstv/playlist.m3u8
 #EXTINF:-1 tvg-id="488" tvg-name="Rádio e Tv Web NO1FM" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_457_1783038243.jpg" group-title="RADIO  LIVE",Rádio e Tv Web NO1FM
-https://stmv7.voxtvhd.com.br/marcelo9899/marcelo9899/playlist.m3u8?hls_ctx=362i841r
+https://stmv7.voxtvhd.com.br/marcelo9899/marcelo9899/playlist.m3u8?hls_ctx=1002x345
 #EXTINF:-1 tvg-id="417" tvg-name="TV itapetinga kids" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_96_1778654960.png" group-title="KIDS",TV itapetinga kids
-https://stmv4.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8?hls_ctx=3qux1265
+https://stmv4.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8?hls_ctx=p3707u0v
 #EXTINF:-1 tvg-id="152" tvg-name="Ministério Infantil TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_152_1767815866.png" group-title="KIDS",Ministério Infantil TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8?hls_ctx=9942ih25
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8?hls_ctx=5812050s
 #EXTINF:-1 tvg-id="135" tvg-name="KANUCA TV BRASIL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767792444.png" group-title="KIDS",KANUCA TV BRASIL
-https://video08.logicahost.com.br/kanucatv/kanucatv/chunklist_w1083021764.m3u8
+https://video08.logicahost.com.br/kanucatv/kanucatv/chunklist_w2023458568.m3u8
 #EXTINF:-1 tvg-id="100" tvg-name="SBC Kids" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_100_1767831401.png" group-title="KIDS",SBC Kids
-https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=071785sk
+https://video01.brascast.com/rede1220/rede1220/playlist.m3u8?hls_ctx=9e22782w
 #EXTINF:-1 tvg-id="545" tvg-name="ARARUNA TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1786971134.png" group-title="VARIEDADES",ARARUNA TV
-https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w1642858195.m3u8
+https://video05.logicahost.com.br/ararunatv/ararunatv/chunklist_w1340732991.m3u8
 #EXTINF:-1 tvg-id="544" tvg-name="JXS TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_517_1786805192.png" group-title="VARIEDADES",JXS TV
-https://stmv7.voxtvhd.com.br/jxstv/jxstv/playlist.m3u8?hls_ctx=1841te60
+https://stmv7.voxtvhd.com.br/jxstv/jxstv/playlist.m3u8?hls_ctx=23w4m7se
 #EXTINF:-1 tvg-id="539" tvg-name="TV Guriri" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_539_1786989048.png" group-title="VARIEDADES",TV Guriri
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-13293/playlist/chunklist.m3u8
 #EXTINF:-1 tvg-id="538" tvg-name="Tvmetropole16" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_534_1786312724.jpg" group-title="VARIEDADES",Tvmetropole16
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w643643327.m3u8
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w1607644552.m3u8
 #EXTINF:-1 tvg-id="537" tvg-name="PrismaTV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_530_1786141361.jpeg" group-title="VARIEDADES",PrismaTV
 https://stmv2.srvif.com/famasi/famasi/playlist.m3u8
 #EXTINF:-1 tvg-id="535" tvg-name="TVCONECTA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1785970024.png" group-title="VARIEDADES",TVCONECTA
-https://srv1.streaminghd.net.br/tvconecta/tvconecta/media_w912037493_47732.ts
+https://srv1.streaminghd.net.br/tvconecta/tvconecta/media_w722255159_56343.ts
 #EXTINF:-1 tvg-id="532" tvg-name="TUBACAST TV+" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1786971089.png" group-title="VARIEDADES",TUBACAST TV+
 https://tv.rbti.tv.br/rbti4/index.m3u8
 #EXTINF:-1 tvg-id="530" tvg-name="Prodígio Web Rádio TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_487_1785962811.png" group-title="VARIEDADES",Prodígio Web Rádio TV
-https://stmv4.voxtvhd.com.br/tvprodigiowebradio/tvprodigiowebradio/playlist.m3u8?hls_ctx=5536661p
+https://stmv4.voxtvhd.com.br/tvprodigiowebradio/tvprodigiowebradio/playlist.m3u8?hls_ctx=25nrq358
 #EXTINF:-1 tvg-id="527" tvg-name="TELEMETRO" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1785851688.png" group-title="VARIEDADES",TELEMETRO
 https://streamunoapp.com:3366/live/telemetrolive.m3u8
 #EXTINF:-1 tvg-id="526" tvg-name="LA DESCARGA TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1785851635.png" group-title="VARIEDADES",LA DESCARGA TV
 https://video.udwn.net:19360/ladescargatv/ladescargatv.m3u8
 #EXTINF:-1 tvg-id="525" tvg-name="PULSO VISION" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1785851468.png" group-title="VARIEDADES",PULSO VISION
-https://5790d294af2dc.streamlock.net/pulsovision/pulsovision/media_w1809140219_965510.ts
+https://5790d294af2dc.streamlock.net/pulsovision/pulsovision/media_w162531915_994201.ts
 #EXTINF:-1 tvg-id="524" tvg-name="FAROVISION" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1785851431.png" group-title="VARIEDADES",FAROVISION
 https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="523" tvg-name="LATINOS TV NY" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1785851380.png" group-title="VARIEDADES",LATINOS TV NY
-https://5790d294af2dc.streamlock.net/latinostv/latinostv/media_w915164835_69355.ts
+https://5790d294af2dc.streamlock.net/latinostv/latinostv/chunklist_w2086073070.m3u8
 #EXTINF:-1 tvg-id="522" tvg-name="NEXXO TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1785851257.png" group-title="VARIEDADES",NEXXO TV
-https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/media_w1670423998_4376.ts
+https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/media_w38599002_3561.ts
 #EXTINF:-1 tvg-id="521" tvg-name="REDE MARANHÃO" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_521_1785750359.jpg" group-title="VARIEDADES",REDE MARANHÃO
 https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
 #EXTINF:-1 tvg-id="518" tvg-name="Nacional Plus" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_520_1786811512.png" group-title="VARIEDADES",Nacional Plus
 https://stmv.webtvninjas.com.br/nacionalplus2/nacionalplus2/playlist.m3u8
 #EXTINF:-1 tvg-id="516" tvg-name="CRN TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_511_1785426303.png" group-title="VARIEDADES",CRN TV
-https://stmv7.voxtvhd.com.br/crntv/crntv/playlist.m3u8?hls_ctx=797r4c92
+https://stmv7.voxtvhd.com.br/crntv/crntv/playlist.m3u8?hls_ctx=e5679x93
 #EXTINF:-1 tvg-id="515" tvg-name="TVCOM" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1785368391.png" group-title="VARIEDADES",TVCOM
-https://video11.logicahost.com.br/comunidadefm/comunidadefm/chunklist_w1449434783.m3u8
+https://video11.logicahost.com.br/comunidadefm/comunidadefm/chunklist_w1075433056.m3u8
 #EXTINF:-1 tvg-id="512" tvg-name="SULFUROSA TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_504_1785007299.png" group-title="VARIEDADES",SULFUROSA TV
 https://stmv7.samcast.com.br/osvaldo5897/osvaldo5897/playlist.m3u8
 #EXTINF:-1 tvg-id="509" tvg-name="TV SERRA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_499_1784827057.png" group-title="VARIEDADES",TV SERRA
@@ -304,7 +304,7 @@ https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
 #EXTINF:-1 tvg-id="502" tvg-name="TVCB TV CAMPOS BELOS" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_477_1783703735.png" group-title="VARIEDADES",TVCB TV CAMPOS BELOS
 https://stmv2.samcast.com.br/dermeval8653/dermeval8653/playlist.m3u8
 #EXTINF:-1 tvg-id="501" tvg-name="WEB TV CR" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_99_1783656105.jpeg" group-title="VARIEDADES",WEB TV CR
-https://stmv1.paineldevideo.com.br/clagpl2/clagpl2/chunklist_w1873644594.m3u8
+https://stmv1.paineldevideo.com.br/clagpl2/clagpl2/chunklist_w774407576.m3u8
 #EXTINF:-1 tvg-id="490" tvg-name="TV METROPOLITANA RIO" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_463_1783204313.jpg" group-title="VARIEDADES",TV METROPOLITANA RIO
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 #EXTINF:-1 tvg-id="489" tvg-name="TV LAGO AZUL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_458_1783212851.png" group-title="VARIEDADES",TV LAGO AZUL
@@ -314,9 +314,9 @@ https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 tvg-id="483" tvg-name="Terra Brasil TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_449_1782599518.png" group-title="VARIEDADES",Terra Brasil TV
 https://stmv7.samcast.com.br/elias9801/elias9801/playlist.m3u8
 #EXTINF:-1 tvg-id="467" tvg-name="TV da Cidade Joinville – SC" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1781271731.png" group-title="VARIEDADES",TV da Cidade Joinville – SC
-https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/chunklist.m3u8
+https://cdn.live.br1.jmvstream.com/w/LVW-8855/LVW8855_u7a7C4Oa4F/media-uczamiaam_379677.ts
 #EXTINF:-1 tvg-id="466" tvg-name="TV São Gabriel" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1781271307.png" group-title="VARIEDADES",TV São Gabriel
-https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/chunklist_w401465399.m3u8
+https://video11.logicahost.com.br/tvsaogabriel/tvsaogabriel/chunklist_w1901474912.m3u8
 #EXTINF:-1 tvg-id="465" tvg-name="Play Votu TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_418_1781181168.png" group-title="VARIEDADES",Play Votu TV
 https://stmv5.samcast.com.br/ronaldopaszko6809/ronaldopaszko6809/playlist.m3u8
 #EXTINF:-1 tvg-id="460" tvg-name="Rádio e tv Belém News" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_460_1781315360.png" group-title="VARIEDADES",Rádio e tv Belém News
@@ -324,13 +324,11 @@ https://stmv4.liveplushd.com.br/radioetvbelemnews/radioetvbelemnews/chunklist_w1
 #EXTINF:-1 tvg-id="459" tvg-name="TV MAISCHETI" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_459_1781315722.png" group-title="VARIEDADES",TV MAISCHETI
 https://stmv6.voxtvhd.com.br/tvmaischeti/tvmaischeti/playlist.m3u8
 #EXTINF:-1 tvg-id="454" tvg-name="TV Conectados" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_454_1780615175.png" group-title="VARIEDADES",TV Conectados
-https://stmv4.voxtvhd.com.br/tvconectados/tvconectados/playlist.m3u8?hls_ctx=79119596
+https://stmv4.voxtvhd.com.br/tvconectados/tvconectados/playlist.m3u8?hls_ctx=zmn55981
 #EXTINF:-1 tvg-id="448" tvg-name="Tv São Raimundo" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_448_1780371376.png" group-title="VARIEDADES",Tv São Raimundo
-https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8?hls_ctx=c338097g
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8?hls_ctx=58cw23n7
 #EXTINF:-1 tvg-id="447" tvg-name="Mundo On" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_447_1781315549.png" group-title="VARIEDADES",Mundo On
 https://stmv8.samcast.com.br/suelen5027/suelen5027/playlist.m3u8
-#EXTINF:-1 tvg-id="445" tvg-name="Noronha TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_391_1780434517.jpg" group-title="VARIEDADES",Noronha TV
-https://stmv4.voxtvhd.com.br/valdecisamuel2509/valdecisamuel2509/playlist.m3u8
 #EXTINF:-1 tvg-id="442" tvg-name="TV SJK" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_442_1781315929.png" group-title="VARIEDADES",TV SJK
 https://pop.uniquetv.com.br/tvsjk/video.m3u8
 #EXTINF:-1 tvg-id="441" tvg-name="TV Alo Brasil" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_389_1780152165.jpg" group-title="VARIEDADES",TV Alo Brasil
@@ -338,13 +336,13 @@ https://srv5.zcast.com.br/jonasribeiroda2471/jonasribeiroda2471/playlist.m3u8
 #EXTINF:-1 tvg-id="439" tvg-name="TES" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_439_1780106377.png" group-title="VARIEDADES",TES
 https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
 #EXTINF:-1 tvg-id="436" tvg-name="TV VIVE" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_386_1780087982.jpg" group-title="VARIEDADES",TV VIVE
-https://stmv1.voxtvhd.com.br/14650/14650/playlist.m3u8?hls_ctx=08nxx67y
+https://stmv1.voxtvhd.com.br/14650/14650/playlist.m3u8?hls_ctx=w7m61005
 #EXTINF:-1 tvg-id="432" tvg-name="SucuriNet" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_432_1781316107.png" group-title="VARIEDADES",SucuriNet
 https://stmv1.samcast.com.br/sucurinet/sucurinet/playlist.m3u8
 #EXTINF:-1 tvg-id="431" tvg-name="tv radio bhs 1430" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_431_1781316058.png" group-title="VARIEDADES",tv radio bhs 1430
-https://stmv7.voxtvhd.com.br/tvradiobhs1430/tvradiobhs1430/playlist.m3u8?hls_ctx=4n7d0id2
+https://stmv7.voxtvhd.com.br/tvradiobhs1430/tvradiobhs1430/playlist.m3u8?hls_ctx=0640y704
 #EXTINF:-1 tvg-id="430" tvg-name="TV DO POVO ERECHIM" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_430_1781315986.png" group-title="VARIEDADES",TV DO POVO ERECHIM
-https://stmv1.voxtvhd.com.br/tvdopovo/tvdopovo/playlist.m3u8?hls_ctx=25vh8ior
+https://stmv1.voxtvhd.com.br/tvdopovo/tvdopovo/playlist.m3u8?hls_ctx=lw005vw2
 #EXTINF:-1 tvg-id="426" tvg-name="TV CACIQUE" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_372_1779821183.jpg" group-title="VARIEDADES",TV CACIQUE
 https://stmv8.samcast.com.br/pedro9687/pedro9687/playlist.m3u8
 #EXTINF:-1 tvg-id="424" tvg-name="TV Omindaré" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_365_1779569733.jpg" group-title="VARIEDADES",TV Omindaré
@@ -352,7 +350,7 @@ https://stmv2.srvif.com/tvomindare/tvomindare/playlist.m3u8
 #EXTINF:-1 tvg-id="423" tvg-name="REDE ESTAÇÃO AMPARO" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_423_1779759863.png" group-title="VARIEDADES",REDE ESTAÇÃO AMPARO
 https://stmv7.samcast.com.br/paulo8649/paulo8649/playlist.m3u8
 #EXTINF:-1 tvg-id="421" tvg-name="ORTV WEB Filmes e variedades culturais" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_202_1784039613.png" group-title="VARIEDADES",ORTV WEB Filmes e variedades culturais
-https://tv.ortv.com.br/hls/stream.m3u8
+https://tv.ortv.com.br/hls/stream-7262.ts
 #EXTINF:-1 tvg-id="414" tvg-name="TV Cruzeiro do Brasil (TCB Rio)" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_348_1778686682.png" group-title="VARIEDADES",TV Cruzeiro do Brasil (TCB Rio)
 https://tv-cruzeiro.tvr.ovh/video34577/video34577/chunklist_w966814655.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="VTR CHANNEL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1778162208.png" group-title="VARIEDADES",VTR CHANNEL
@@ -361,38 +359,40 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 https://stmv8.samcast.com.br/newswire4876/newswire4876/playlist.m3u8
 #EXTINF:-1 tvg-id="404" tvg-name="24 Horas Tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_404_1777348389.png" group-title="VARIEDADES",24 Horas Tv
 https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
+#EXTINF:-1 tvg-id="397" tvg-name="KE TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_320_1776709563.png" group-title="VARIEDADES",KE TV
+https://stmv2.painelvideocast.com.br/kettv/kettv/playlist.m3u8
 #EXTINF:-1 tvg-id="534" tvg-name="VALLE NUEVO" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1785969980.png" group-title="INTERNACIONAL",VALLE NUEVO
-https://vtm1.msinteractiva.com/vallenuevotv/vallenuevotv/playlist.m3u8?hls_ctx=vu0c7797
+https://vtm1.msinteractiva.com/vallenuevotv/vallenuevotv/playlist.m3u8?hls_ctx=3121e662
 #EXTINF:-1 tvg-id="354" tvg-name="RÁDIO SINES" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_354_1773029113.png" group-title="INTERNACIONAL",RÁDIO SINES
 https://load-balancer.azotosolutions.com/cdnedge19/smil:live19.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="353" tvg-name="Muzangala TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_353_1773029025.png" group-title="INTERNACIONAL",Muzangala TV
-https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/media_w1600825245_11180.ts
+https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/media_w586804574_20101.ts
 #EXTINF:-1 tvg-id="352" tvg-name="RFPTV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_352_1773029004.png" group-title="INTERNACIONAL",RFPTV
-https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+https://video03.logicahost.com.br/rfptv/rfptv/chunklist_w326129922.m3u8
 #EXTINF:-1 tvg-id="351" tvg-name="FAMA TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_351_1773028986.png" group-title="INTERNACIONAL",FAMA TV
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-id="350" tvg-name="WAY" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_350_1773028962.png" group-title="INTERNACIONAL",WAY
-https://live.wayone.cloud/waytv/waytv1/playlist.m3u8
+https://live.wayone.cloud/waytv/waytv1/chunklist_w1902489018_ao.m3u8
 #EXTINF:-1 tvg-id="349" tvg-name="ADBTV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_349_1773028689.png" group-title="INTERNACIONAL",ADBTV
-https://live.wayone.cloud/adbtv/adbtv/playlist.m3u8
+https://live.wayone.cloud/adbtv/adbtv/chunklist_w1493727800_vo.m3u8
 #EXTINF:-1 tvg-id="348" tvg-name="ON FM" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_348_1773028673.png" group-title="INTERNACIONAL",ON FM
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/media_w1885814964_323471.ts
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/media_w1890063131_21306.ts
 #EXTINF:-1 tvg-id="347" tvg-name="MELODIE TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_347_1773028645.png" group-title="INTERNACIONAL",MELODIE TV
 https://live20.bozztv.com/akamaissh101/ssh101/melodietvlive/chunks.m3u8
 #EXTINF:-1 tvg-id="346" tvg-name="PITUFO TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_346_1773028632.png" group-title="INTERNACIONAL",PITUFO TV
-https://stream.ads.ottera.tv/cl/260819da2imm36ddrc73ddvn0g/1280x720_3071200_0_f.m3u8?i=475_4211
+https://stream.ads.ottera.tv/cl/260820da37nfv80kos73e9ie5g/1280x720_3071200_0_f.m3u8?i=475_4211
 #EXTINF:-1 tvg-id="345" tvg-name="Canal Parlament" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_345_1773028377.png" group-title="INTERNACIONAL",Canal Parlament
 https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="328" tvg-name="TV MONTANHA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_328_1771908358.png" group-title="INTERNACIONAL",TV MONTANHA
 https://stmv1.srvif.com/tvmontana/tvmontana/playlist.m3u8
 #EXTINF:-1 tvg-id="252" tvg-name="VINTAGE TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_252_1768980156.jpg" group-title="INTERNACIONAL",VINTAGE TV
-https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=4xsbc9b2
+https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8?hls_ctx=ls90x2z9
 #EXTINF:-1 tvg-id="105" tvg-name="REDE SDP TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_105_1767830368.png" group-title="INTERNACIONAL",REDE SDP TV
-https://video01.brascast.com/rede8652/rede8652/playlist.m3u8?hls_ctx=9963w70s
+https://video01.brascast.com/rede8652/rede8652/playlist.m3u8?hls_ctx=70lt1e6g
 #EXTINF:-1 tvg-id="69" tvg-name="BRAZILIANTIMES" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_69_1767831013.png" group-title="INTERNACIONAL",BRAZILIANTIMES
-https://braziliantimes.nuvemplay.live/hls/stream-372683.ts
+https://braziliantimes.nuvemplay.live/hls/stream-387223.ts
 #EXTINF:-1 tvg-id="388" tvg-name="WEB Canal Blecaute TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_300_1775693296.jpg" group-title="GAMES TV",WEB Canal Blecaute TV
-https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/chunklist_w1732721599.m3u8
+https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
 #EXTINF:-1 tvg-id="341" tvg-name="CANAL START" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_243_1772512782.png" group-title="GAMES TV",CANAL START
 https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 tvg-id="321" tvg-name="YEEAAH 2" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_321_1771611704.png" group-title="GAMES TV",YEEAAH 2
@@ -400,63 +400,63 @@ https://srv5.zcast.com.br/yeeaahradio/yeeaahradio/playlist.m3u8
 #EXTINF:-1 tvg-id="320" tvg-name="YEEAAH" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_320_1771611789.png" group-title="GAMES TV",YEEAAH
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 #EXTINF:-1 tvg-id="434" tvg-name="OS DETETIVES" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1779973492.png" group-title="FILMES",OS DETETIVES
-https://video11.logicahost.com.br/detetives/detetives/chunklist_w571296709.m3u8
+https://video11.logicahost.com.br/detetives/detetives/chunklist_w1760090763.m3u8
 #EXTINF:-1 tvg-id="433" tvg-name="COMEDY CLUB" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1779973369.png" group-title="FILMES",COMEDY CLUB
-https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w438353754.m3u8
+https://video11.logicahost.com.br/comedyclub/comedyclub/chunklist_w644390301.m3u8
 #EXTINF:-1 tvg-id="385" tvg-name="Tv Miura" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_385_1776876075.png" group-title="FILMES",Tv Miura
 https://live20.bozztv.com/giatvplayout7/giatv-209397/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="384" tvg-name="Tv Clássicos do Cinema" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_384_1776876052.png" group-title="FILMES",Tv Clássicos do Cinema
 https://srv3.zcast.com.br/classicosdocinema/classicosdocinema/playlist.m3u8
 #EXTINF:-1 tvg-id="319" tvg-name="VRTCHANNEL" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_319_1776875991.png" group-title="FILMES",VRTCHANNEL
-https://sistemavrt2023.vrtchannel.tv.br:3626/stream/play.m3u8
+https://sistemavrt2023.vrtchannel.tv.br:3626/stream/play-10126.ts
 #EXTINF:-1 tvg-id="314" tvg-name="Tv ktv brasil" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_203_1771111811.png" group-title="FILMES",Tv ktv brasil
 https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
 #EXTINF:-1 tvg-id="310" tvg-name="CINE CATÁSTROFE" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1770816943.png" group-title="FILMES",CINE CATÁSTROFE
-https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w1253468901.m3u8
+https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/chunklist_w269858501.m3u8
 #EXTINF:-1 tvg-id="309" tvg-name="MIAMI VICE E CONVIDADOS" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1770816884.png" group-title="FILMES",MIAMI VICE E CONVIDADOS
-https://video05.logicahost.com.br/miamivice/miamivice/chunklist_w1997862649.m3u8
+https://video05.logicahost.com.br/miamivice/miamivice/chunklist_w284714459.m3u8
 #EXTINF:-1 tvg-id="298" tvg-name="TV+NEWS" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_182_1770171169.jpg" group-title="FILMES",TV+NEWS
 https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 #EXTINF:-1 tvg-id="269" tvg-name="tv cidade brasil" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_269_1771108643.png" group-title="FILMES",tv cidade brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="250" tvg-name="Tvcei" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_123_1768920535.png" group-title="FILMES",Tvcei
-https://stmv1.voxplayer.com.br/smytv/smytv/chunklist_w1540011608.m3u8
+https://stmv1.voxplayer.com.br/smytv/smytv/chunklist_w2015731089.m3u8
 #EXTINF:-1 tvg-id="246" tvg-name="GLN TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_133_1768620570.jpg" group-title="FILMES",GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="226" tvg-name="Tv Explosãofm" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_226_1771109717.png" group-title="FILMES",Tv Explosãofm
-https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/chunklist_w2004324549.m3u8
+https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/chunklist_w1217818861.m3u8
 #EXTINF:-1 tvg-id="218" tvg-name="TV DIFUSÃO" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_218_1768389402.png" group-title="FILMES",TV DIFUSÃO
-https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/media_w196614048_109482.ts
+https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/media_w790513056_3577.ts
 #EXTINF:-1 tvg-id="211" tvg-name="TV Sonata" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_104_1768343112.png" group-title="FILMES",TV Sonata
-https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+https://video04.logicahost.com.br/isonata/isonata/chunklist_w1856868145.m3u8
 #EXTINF:-1 tvg-id="196" tvg-name="TOP MIX TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_24_1768263348.png" group-title="FILMES",TOP MIX TV
-https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/chunklist_w1742026857.m3u8
+https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/chunklist_w1142224094.m3u8
 #EXTINF:-1 tvg-id="136" tvg-name="Mega Cine TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767792729.png" group-title="FILMES",Mega Cine TV
 https://mlb.essastream.com:8081/megacinetv/index.m3u8
 #EXTINF:-1 tvg-id="133" tvg-name="Rede ISTV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_133_1767831268.png" group-title="FILMES",Rede ISTV
-https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w740888362.m3u8
+https://video10.logicahost.com.br/redeistv/redeistv/chunklist_w805843847.m3u8
 #EXTINF:-1 tvg-id="132" tvg-name="Retro X" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_132_1781319213.png" group-title="FILMES",Retro X
-https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8?lb_backend_hint=7
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8?lb_backend_hint=6
 #EXTINF:-1 tvg-id="131" tvg-name="CANAL SÉRIES CLASSIC" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767792150.png" group-title="FILMES",CANAL SÉRIES CLASSIC
-https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w49551510.m3u8
+https://video10.logicahost.com.br/serieclassic/serieclassic/chunklist_w2142585454.m3u8
 #EXTINF:-1 tvg-id="111" tvg-name="TV MZ" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_111_1776905348.png" group-title="FILMES",TV MZ
-https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8?hls_ctx=81tnp0ww
+https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8?hls_ctx=5167m9q8
 #EXTINF:-1 tvg-id="98" tvg-name="Xtreme tv" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_98_1781317461.png" group-title="FILMES",Xtreme tv
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 #EXTINF:-1 tvg-id="87" tvg-name="SBC Studios" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_87_1767830858.png" group-title="FILMES",SBC Studios
-https://video01.brascast.com/tv411747/tv411747/playlist.m3u8?hls_ctx=e1q4n2f4
+https://video01.brascast.com/tv411747/tv411747/playlist.m3u8?hls_ctx=7602184q
 #EXTINF:-1 tvg-id="75" tvg-name="TVNA filmes" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_75_1781318006.png" group-title="FILMES",TVNA filmes
-https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8?hls_ctx=uqtrv512
+https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8?hls_ctx=2okc4660
 #EXTINF:-1 tvg-id="542" tvg-name="ONDA 1 TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_542_1786724924.png" group-title="NOTÍCIAS",ONDA 1 TV
-https://stmv7.voxtvhd.com.br/celso6243/celso6243/playlist.m3u8?hls_ctx=56h7ror2
+https://stmv7.voxtvhd.com.br/celso6243/celso6243/playlist.m3u8?hls_ctx=5z4e54c3
 #EXTINF:-1 tvg-id="491" tvg-name="REDE LAPOENSE TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_468_1783365530.png" group-title="NOTÍCIAS",REDE LAPOENSE TV
 https://stmv7.samcast.com.br/lapoenseplay/lapoenseplay/playlist.m3u8
 #EXTINF:-1 tvg-id="422" tvg-name="O Sertão é Notícia" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_47_1779234773.png" group-title="NOTÍCIAS",O Sertão é Notícia
 https://srv3.zcast.com.br/comunicacao7839/comunicacao7839/playlist.m3u8
 #EXTINF:-1 tvg-id="415" tvg-name="Canal 312" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_353_1778620150.png" group-title="NOTÍCIAS",Canal 312
-https://stmv4.voxtvhd.com.br/maikel4996/maikel4996/playlist.m3u8?hls_ctx=du75s579
+https://stmv4.voxtvhd.com.br/maikel4996/maikel4996/playlist.m3u8?hls_ctx=3u566966
 #EXTINF:-1 tvg-id="411" tvg-name="AgroSul TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1778161840.png" group-title="NOTÍCIAS",AgroSul TV
-https://cdn.br10.sbs/memfs/828c038a-14be-4faf-a9a6-e890141bf7d9_output_0.m3u8?session=3EJLKXz7UUKHzjfweFdixd
+https://cdn.br10.sbs/memfs/828c038a-14be-4faf-a9a6-e890141bf7d9_output_0.m3u8?session=4sGPvvJhngNi7eJWNom6cc
 #EXTINF:-1 tvg-id="338" tvg-name="Tv Notícias Minas" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_338_1773027944.png" group-title="NOTÍCIAS",Tv Notícias Minas
 https://stmv8.samcast.com.br/rogerio9960/rogerio9960/playlist.m3u8
 #EXTINF:-1 tvg-id="299" tvg-name="TV Dia" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_299_1771107741.png" group-title="NOTÍCIAS",TV Dia
@@ -464,16 +464,16 @@ https://stmv2.srvif.com/tvdia/tvdia/playlist.m3u8
 #EXTINF:-1 tvg-id="245" tvg-name="Tv Alpha" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_129_1768595354.png" group-title="NOTÍCIAS",Tv Alpha
 https://pop.uniquetv.com.br/reisenclubetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="201" tvg-name="TV Atitudenew" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_201_1771110545.png" group-title="NOTÍCIAS",TV Atitudenew
-https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8?hls_ctx=k47r4959
+https://stmv1.transmissaodigital.com/tvatitudenew/tvatitudenew/playlist.m3u8?hls_ctx=7673g6p0
 #EXTINF:-1 tvg-id="184" tvg-name="RS NEWS" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_87_1767986402.png" group-title="NOTÍCIAS",RS NEWS
-https://video07.logicahost.com.br/rsnews01/rsnews01/chunklist_w1429920235.m3u8
+https://video07.logicahost.com.br/rsnews01/rsnews01/chunklist_w637740866.m3u8
 #EXTINF:-1 tvg-id="149" tvg-name="Rádio e TV Livre Brasil" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767794029.png" group-title="NOTÍCIAS",Rádio e TV Livre Brasil
-https://video03.logicahost.com.br/tvlivrebrasil/tvlivrebrasil/playlist.m3u8
+https://video03.logicahost.com.br/tvlivrebrasil/tvlivrebrasil/chunklist_w91435717.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="TV SERRANA" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767823059.png" group-title="NOTÍCIAS",TV SERRANA
-https://video10.logicahost.com.br/tvserrana/tvserrana/chunklist_w520512070.m3u8
+https://video10.logicahost.com.br/tvserrana/tvserrana/chunklist_w1288346835.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="TV NOTÍCIAS AGRÍCOLAS" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_18_1767822620.png" group-title="NOTÍCIAS",TV NOTÍCIAS AGRÍCOLAS
-https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
+https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/chunklist_w1148306904.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CARIRI TV" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_11_1781318867.png" group-title="NOTÍCIAS",CARIRI TV
-https://video05.logicahost.com.br/cariritv/cariritv/chunklist_w319433538.m3u8
+https://video05.logicahost.com.br/cariritv/cariritv/chunklist_w670943515.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="Creative TV Brasil" tvg-logo="https://clubecanais.com.br/uploads/logos/logo_admin_9_1767829381.png" group-title="NOTÍCIAS",Creative TV Brasil
-https://v01.taaqui.org/creativetvbrasil/creativetvbrasil/chunklist_w810336437.m3u8
+https://v01.taaqui.org/creativetvbrasil/creativetvbrasil/chunklist_w813880956.m3u8
